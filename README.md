@@ -7,6 +7,8 @@ Users can cycle through colours, activate a rainbow auto-cycle mode, or turn off
 
 The design prioritises **simplicity**, **low power usage**, and **standalone interaction** without Wi-Fi or external controllers.
 
+This project also serves as my first hands-on microcontroller project, where I explored the fundamentals of ESP32 programming.
+
 ---
 
 ## ✨ Features
