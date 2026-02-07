@@ -41,6 +41,7 @@ This project also serves as my first hands-on microcontroller project, where I e
 |-------|---------|
 | NeoPixel Data | GPIO 4 |
 | Touch Input | GPIO 5 |
+<img width="1196" height="694" alt="image" src="https://github.com/user-attachments/assets/f340e8df-c3bd-4045-bd87-fc96cb086fac" />
 
 ---
 
